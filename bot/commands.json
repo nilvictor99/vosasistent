@@ -1,0 +1,19 @@
+{
+    "temp_automatizacion": [
+        "foxie decime la temperatura del aula de automatizacion",
+        "foxie decime la temperatura de automatizacion"
+    ],
+    "temp_impresoras": [
+        "foxie decime la temperatura del aula con impresoras"
+    ],
+    "temp_taller": [],
+    "temp_oficinas": [],
+    "temp_host": [],
+    "puerta": [
+        "foxie abrime la puerta"
+    ],
+    "cortinas_oficinas": [
+        "foxie abrime las cortinas de la oficina"
+    ],
+    "cortinas_automatizacion": []
+}
